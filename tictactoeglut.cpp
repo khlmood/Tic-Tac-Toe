@@ -9,8 +9,8 @@ using std::endl;
 using std::string;
 using std::to_string;
 
-const float black[] = { 0.0, 0.0, 0.0 };  //i will probalby only use black and white (for all of the program)
-const float white[] = { 1.1, 1.1, 1.1 };  // and make a buttom to change from night mode to light mode
+const float black[] = { 0.0, 0.0, 0.0 };
+const float white[] = { 1.1, 1.1, 1.1 };
 const float red[] = { 1.0, 0.0, 0.0 };
 const float green[] = { 0.0, 1.0, 0.0 };
 const float yellow[] = { 1.0, 1.0, 0.0 };
